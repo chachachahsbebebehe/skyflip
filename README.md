@@ -1,1 +1,6 @@
-158d5744-2d1f-40d5-a3e9-f2ad21252521
+# Skyflip
+
+A backflip physics game that runs entirely in the browser from one offline HTML file.
+
+## Play
+Open `index.html` in any modern browser, or visit the GitHub Pages link once published.
